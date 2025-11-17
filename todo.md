@@ -8,3 +8,4 @@
 - [x] Adicionar navegação e footer
 - [x] Gerar imagens das frutas usando IA
 - [x] Configurar tema e cores do site
+- [x] Criar README.md com documentação do projeto
